@@ -1,7 +1,7 @@
 # AI Programming with Python Project
 
 ### Overview
-Project code for Udacity's [AI Programming with Python](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089) Nanodegree program. In this project, we develop code for an image classifier built with PyTorch in a Jupyter notebook, then convert it into a command line application. The command line application can be accessed through running the [train.py](https://github.com/dan-doyle/ImageClassifier/blob/main/train.py) and [predict.py](https://github.com/dan-doyle/ImageClassifier/blob/main/predict.py) files.
+Project code for Udacity's [AI Programming with Python](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089) Nanodegree program. In this project, we develop code for an image classifier built with PyTorch in a Jupyter notebook, then convert it into a command line application. The command line application can be accessed by running the [train.py](https://github.com/dan-doyle/ImageClassifier/blob/main/train.py) and [predict.py](https://github.com/dan-doyle/ImageClassifier/blob/main/predict.py) files.
 
 ### Dataset
 We use a [102 category flower dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) with each category representing a different category of flower found commonly in the United Kingdom.
